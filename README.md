@@ -1,6 +1,6 @@
 # Covid19-in-Nigeria-Time-Series-Analysis
 
-Data Exploration and Visualization
+## Data Exploration and Visualization
 
 This Jupyter notebook provides an in-depth analysis of the COVID-19 pandemic in Nigeria from 2020 to 2022. 
 
