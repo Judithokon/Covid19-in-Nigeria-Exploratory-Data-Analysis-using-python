@@ -1,4 +1,4 @@
-# Covid19-in-Nigeria-Time-Series-Analysis
+# Covid19-in-Nigeria-Exploratory-Data-Analysis
 
 ## Data Exploration and Visualization
 
